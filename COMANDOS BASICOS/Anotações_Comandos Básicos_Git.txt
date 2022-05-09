@@ -1,0 +1,37 @@
+INFORMAÇÕES Git/GitHub
+COMANDOS BÁSICOS
+WINDOWS	LINUX	Atalho	
+dir	ls		Listas de diretórios situados na pasta.
+cd	cd		Encaminha para base do diretório C/
+cd/ nome da pasta + dir	cd/ nome da pasta + ls		Listar diretório pasta windows
+cd/Windows (espaço) ..			Retorna para o diretório C/
+cls	clear	Crtl+L	Limpar tela
+Tab			Autocompleta a frase com a letra do início da digitação.
+
+CRIAR PASTA
+WINDOWS	LINUX	Atalho	
+mkdir + nome da pasta			Criar pasta
+dir	ls		Lista o diretório visualiza a pasta recém-criada
+cd + nome da pasta			Navega pela pasta
+
+CRIAR PASTA
+WINDOWS	LINUX	Atalho	
+C:\ nome da pasta > echo(espaço) hello(espaço)>(espaço)hello.txt			Salvar pasta
+dir	ls		Para listar os arquivos da pasta
+Cd(espaço)..			Sair da pasta workspace
+Ctrl+L			Limpar tela
+dir	ls		Para listar os arquivos da pasta
+del(espaço)nome da pasta (surge pergunta “Deletar: s/n”)			
+dir	ls		Para listar os arquivos da pasta
+*No Windows vai aparecer ainda o nome da pasta mas se digitar workspace + enter todos os arquivos foram deletados e não era a intenção.
+
+RESTAURAR PASTAS
+WINDOWS	LINUX	Atalho	
+Clicar ↑ “hello.txt” +enter			Acessar histórico de comandos executados
+dir	ls		Para listar os arquivos da pasta (Vai aparecer o arquivo dentro da pasta que estava vazia)
+cd (espaço) ..			Sai da pasta
+Crtl + L			Limpar a tela
+>dr			Listar diretórios (o arquivo retorna para a pasta)
+REMOVER O REPESITÓRIO COM TODOS OS COMANDOS
+1)	rmdir (espaço) nome da pasta  (espaço)/S/Q (Windows).
+2)	dir para ver que o repositório foi removido.
